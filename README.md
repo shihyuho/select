@@ -175,3 +175,9 @@ npm run coverage
 ## License
 
 rc-select is released under the MIT license.
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/believeWang/select.svg)](https://starcharts.herokuapp.com/believeWang/select)
+      
